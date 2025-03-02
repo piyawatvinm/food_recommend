@@ -1,0 +1,5 @@
+streamlit==1.41.1
+pythainlp==5.0.5
+transformers==4.49.0
+pandas==2.2.3
+pydantic==2.10.6
