@@ -595,7 +595,7 @@ def main():
     # Sidebar navigation
     with st.sidebar:
         st.image("https://cdn-icons-png.flaticon.com/512/1622/1622816.png", width=100)
-        st.title("Navigation")
+        st.title("Navigationnn")
         
         page = st.radio(
             "Select a page",
